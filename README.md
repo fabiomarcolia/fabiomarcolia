@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá, amigo(a)👋
 
-<!--
-**fabiomarcolia/fabiomarcolia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Fabio Marçolia, trabalho na área de Dados e Business Intelligence desde 2010. 
 
-Here are some ideas to get you started:
+Atualmente como Gerente de Data Analytics de uma equipe multidisciplinar com Analistas, Cientistas e Engenheiro de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formado em gestão financeira. Tenho MBA em BIG Data para Marketing pela ESPM.
+
+➡️ Também sou instrutor e criador de conteúdo no Linkedin e Instagram, nessas plataformas falo sobre: 
+
+- SQL
+- Python
+- Power BI
+- Carreira em Dados
+- Cloud para Data Analytics
+
+📅 Linkedin: https://linkedin.com/in/fabiomarcolia/
+
+📒 SQL 80-20 e-book: Aprendendo os 20% que irá usar em 80% dos casos com SQL! 
+
+🤝 1:1: Agende sua sessão para Guia de Carreira em Dados
+
+🌐 Site (blog): https://mentordados.com 
