@@ -16,7 +16,7 @@ Formado em gestão financeira. Tenho MBA em BIG Data para Marketing pela ESPM.
 
 📅 Linkedin: https://linkedin.com/in/fabiomarcolia/
 
-📒 SQL 80-20 e-book: Aprendendo os 20% que irá usar em 80% dos casos com SQL! 
+📒 [SQL 80-20 e-book: Aprendendo os 20% que irá usar em 80% dos casos com SQL.](https://mentordados.gumroad.com/l/sql80-20) 
 
 🤝 1:1: Agende sua sessão para Guia de Carreira em Dados
 
