@@ -16,4 +16,4 @@ Formado em gestão financeira. Tenho MBA em BIG Data para Marketing pela ESPM.
 
 📅 [Siga no Linkedin](https://linkedin.com/in/fabiomarcolia/)
 
-📩 [Analytica: Dados, IA e Carreira](https://mentordados.substack.com) 
+📩 [+Recursos: Carreira em Dados & IA](https://mentordados.substack.com) 
