@@ -42,10 +42,10 @@ Nas redes, compartilho:
 
 ### 🌐 Onde me encontrar:
 
-- 🔗 [Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
+- 🔗 [Fale ou Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
 - 📬 [Newsletter | Carreira em Dados & IA](https://mentordados.substack.com)
-- 🧠 [Recursos e materiais gratuitos](https://mentordados.notion.site)
+- 🧠 [Recursos e materiais gratuitos](https://topmate.io/fabiomarcolia)
 
 ---
 
-💡 *Se você também acredita que dados + IA transformam carreiras e negócios, está no lugar certo.*
+💡 *Sou um grande entusiasta da área de dados e compartilhar conhecimento, fique a vontade em falar comigo*
