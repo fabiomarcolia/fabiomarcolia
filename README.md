@@ -12,6 +12,7 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IA](https://img.shields.io/badge/-Inteligência%20Artificial-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Cloud](https://img.shields.io/badge/-Cloud-0A66C2?style=for-the-badge&logo=cloudsmith&logoColor=white)
 
 ---
 
@@ -26,6 +27,7 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-f16529?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -42,9 +44,9 @@ Nas redes, compartilho:
 
 ### 🌐 Onde me encontrar:
 
-- 🔗 [Fale ou Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
+- 🔗 [Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
 - 📬 [Newsletter | Carreira em Dados & IA](https://mentordados.substack.com)
-- 🧠 [Recursos e materiais gratuitos](https://topmate.io/fabiomarcolia)
+- 🧠 [Recursos e materiais gratuitos](https://mentordados.notion.site)
 
 ---
 
