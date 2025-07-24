@@ -33,7 +33,8 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ### 💡 Principais reposítórios para te Ajudar na Carreira
 
-- [Python para Dados ](https://github.com/fabiomarcolia/python-para-dados) Recursos para Aprender e Treinar Python para Data Analytics
+- [SQL]() Scripts e Tutoriais de SQL | Aprender e Praticar com muitos Exemplos da Linguagem SQL
+- [Python para Dados](https://github.com/fabiomarcolia/python-para-dados) Recursos para Aprender e Treinar Python para Data Analytics
 - [R Para Data Analytics](https://github.com/fabiomarcolia/R-para-Business-Analytics) Usando R a principal Linguagem Estatística para Data Analytics
 - [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
 - [Dados Corporativos]()
