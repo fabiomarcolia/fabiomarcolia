@@ -31,6 +31,17 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ---
 
+### 💡 Principais reposítórios para te Ajudar na Carreira
+
+- [Python para Dados ](https://github.com/fabiomarcolia/python-para-dados) Recursos para Aprender e Treinar Python para Data Analytics
+- [R Para Data Analytics](https://github.com/fabiomarcolia/R-para-Business-Analytics) Usando R a principal Linguagem Estatística para Data Analytics
+- [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
+- [Dados Corporativos]()
+- [GeAnI]()
+
+
+---
+
 ### 📢 Também crio conteúdo para quem quer crescer na área de dados
 
 Nas redes, compartilho:
@@ -46,7 +57,7 @@ Nas redes, compartilho:
 
 - 🔗 [Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
 - 📬 [Newsletter | Carreira em Dados & IA](https://mentordados.substack.com)
-- 🧠 [Recursos e materiais gratuitos](https://mentordados.notion.site)
+- 🧠 [Recursos e materiais gratuitos](https://topmate.io/fabiomarcolia)
 
 ---
 
