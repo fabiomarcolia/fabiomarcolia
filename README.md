@@ -16,7 +16,7 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ---
 
-### 🛠️ Ferramentas que uso:
+### 🛠️ Ferramentas usadas:
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
