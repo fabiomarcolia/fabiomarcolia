@@ -43,7 +43,7 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ---
 
-### 📢 Também crio conteúdo para quem quer crescer na área de dados
+### 📢 Também sou criador de conteúdo para quem quer crescer na área de dados
 
 Nas redes, compartilho:
 
