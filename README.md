@@ -58,7 +58,7 @@ Nas redes, compartilho:
 
 - 🔗 [Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
 - 📬 [Newsletter | Carreira em Dados & IA](https://mentordados.substack.com)
-- 🧠 [Recursos e materiais gratuitos](https://topmate.io/fabiomarcolia)
+- 🧠 [Recursos e materiais gratuitos para sua Carreira](https://topmate.io/fabiomarcolia)
 
 ---
 
