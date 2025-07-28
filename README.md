@@ -43,9 +43,7 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ---
 
-### 📢 Também sou criador de conteúdo para quem quer crescer na área de dados
-
-Nas redes, compartilho:
+### 📢 Também Compartilho nas Redes Recursos sobre a Carreira em Dados & IA
 
 - 📘 Dicas de SQL, Python, Power BI e Cloud  
 - 🧭 Roadmaps e orientação de carreira  
