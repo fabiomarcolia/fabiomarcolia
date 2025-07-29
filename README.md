@@ -54,7 +54,7 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ### 🌐 Onde me encontrar:
 
-- 🔗 [Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
+- 🔗 [Se Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
 - 📬 [Newsletter | Carreira em Dados & IA](https://mentordados.substack.com)
 - 🧠 [Recursos e materiais gratuitos para sua Carreira](https://topmate.io/fabiomarcolia)
 
