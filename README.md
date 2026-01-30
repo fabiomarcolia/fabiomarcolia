@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Fabio Marçolia
 
-Sou profissional da área de **Dados e Business Intelligence** desde 2010, com trajetória construída entre **análise, engenharia e ciência de dados**.
+Profissional de Dados e Business Intelligence desde 2010, com atuação em análise, engenharia e ciência de dados.
 
-Atualmente sou **Data Platform Mananger**, liderando uma equipe multidisciplinar com **Analistas**, **Cientistas** e **Engenheiros de Dados** em projetos estratégicos e orientados por valor de negócio.
+Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolvendo soluções e plataformas modernas de dados focadas em impacto e valor de negócio.
 
 ---
 
