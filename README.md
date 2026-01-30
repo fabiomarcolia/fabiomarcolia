@@ -31,31 +31,30 @@ Atualmente atuo como **Gerente de Data Analytics**, liderando uma equipe multidi
 
 ---
 
-### 💡 Principais reposítórios para te Ajudar na Carreira
+### 💡 Repositórios para te Ajudar na Carreira | Fique a vontade para clonar e usar em seus projetos e estudos
 
+- [SQL](https://github.com/fabiomarcolia/sql-data-analysis-pratico) Recursos e casos reais para treinar SQL na Cloud AZURE
 - [Python para Dados](https://github.com/fabiomarcolia/python-para-dados) Recursos para Aprender e Treinar Python para Data Analytics
 - [R Para Data Analytics](https://github.com/fabiomarcolia/R-para-Business-Analytics) Usando R a principal Linguagem Estatística para Data Analytics
 - [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
 - [Dados Corporativos](https://github.com/fabiomarcolia/bases-dados-analytics-powerbi-ml) Datasets para Treinar e Template para Criar seu Portifólio
 
-
 ---
 
 ### 📢 Também Compartilho nas Redes Recursos sobre a Carreira em Dados & IA
 
-- 📘 Dicas de SQL, Python, Power BI e Cloud  
+- 📘 Dicas de SQL, Python, Power BI/Business Inteligence e Cloud (Modern Data Platform) 
 - 🧭 Roadmaps e orientação de carreira  
 - 🛠️ Ferramentas e automações com IA  
-- 🔍 Estratégias para se destacar no mercado
-
+- 🔍 Dicas de Carreira
 ---
 
 ### 🌐 Onde me encontrar:
 
 - 🔗 [Se Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
-- 📬 [Newsletter | Carreira em Dados & IA](https://mentordados.substack.com)
-- 🧠 [Recursos e materiais gratuitos para sua Carreira](https://topmate.io/fabiomarcolia)
+- 📬 [Biblioteca de Recursos](https://mentordados.substack.com)
+- 🧠 [Recursos e materiais para sua Carreira](https://topmate.io/fabiomarcolia)
 
 ---
 
-💡 *Sou um grande entusiasta da área de dados e compartilhar conhecimento, fique a vontade em falar comigo*
+💡 *Sou um grande entusiasta da área de dados & IA, compartilhando e ajudando profissionais na carreira.
