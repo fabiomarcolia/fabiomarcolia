@@ -34,9 +34,10 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 ### 💡 Repositórios para te Ajudar na Carreira | Fique a vontade para clonar e usar em seus projetos e estudos
 
 - [SQL](https://github.com/fabiomarcolia/sql-data-analysis-pratico) Recursos e casos reais para treinar SQL na Cloud AZURE
+- [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
 - [Python para Dados](https://github.com/fabiomarcolia/python-para-dados) Recursos para Aprender e Treinar Python para Data Analytics
 - [R Para Data Analytics](https://github.com/fabiomarcolia/R-para-Business-Analytics) Usando R a principal Linguagem Estatística para Data Analytics
-- [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
+
 - [Dados Corporativos](https://github.com/fabiomarcolia/bases-dados-analytics-powerbi-ml) Datasets para Treinar e Template para Criar seu Portifólio
 
 ---
