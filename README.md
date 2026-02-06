@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Fabio Marçolia
+# 👋 Olá, sou Fabio Marçolia
 
 Profissional de área de Dados, atuando em projetos de Business Intelligence desde 2010, com atuação em análise, engenharia e ciência de dados.
 
