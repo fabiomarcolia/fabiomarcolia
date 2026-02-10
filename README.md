@@ -39,7 +39,7 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 - [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
 - [Dados Corporativos](https://github.com/fabiomarcolia/bases-dados-analytics-powerbi-ml) Datasets para Treinar e Template para Criar seu Portifólio
 
-### Estarei sempre atualizando o tema correspondente, são repositórios onde eu salvo templates e recursos. Inclusive quando testo novas tecnologias.
+#### Estarei sempre atualizando o tema correspondente, são repositórios onde eu salvo templates e recursos. Inclusive quando testo novas tecnologias.
 
 ---
 
