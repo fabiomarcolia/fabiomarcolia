@@ -38,6 +38,7 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 - [R Para Data Analytics](https://github.com/fabiomarcolia/R-para-Business-Analytics) Usando R a principal Linguagem Estatística para Data Analytics
 - [Power BI](https://github.com/fabiomarcolia/powerbi) Templates de Power BI e Recursos de Estudo 
 - [Dados Corporativos](https://github.com/fabiomarcolia/bases-dados-analytics-powerbi-ml) Datasets para Treinar e Template para Criar seu Portifólio
+- [Modern Data Platform](https://github.com/fabiomarcolia/modern-data-platform-architecture) Guia de arquitetura e otimização de plataforma de dados: lakehouse, performance, FinOps, observabilidade e IA.
 
 #### Estarei sempre atualizando o tema correspondente, são repositórios onde eu salvo templates e recursos. Inclusive quando eu testo novas tecnologias.
 
