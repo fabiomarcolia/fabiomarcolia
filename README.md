@@ -55,8 +55,7 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 ### 🌐 Onde me encontrar:
 
 - 🔗 [Se Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
-- [![Título do Vídeo](https://marsolia.substack.com)](https://marsolia.substack.com)
-
+- 🤖 [Biblioteca de Recursos Dados & IA](https://marsolia.substack.com)
 - 🧠 [Recursos e materiais para sua Carreira](https://topmate.io/fabiomarcolia)
 
 ---
