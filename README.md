@@ -1,6 +1,6 @@
-# 👋 Olá, sou Fabio Marçolia
+# Olá, sou Fabio Marçolia 👋
 
-Profissional de área de Dados, atuando em projetos de Business Intelligence desde 2010, com atuação em análise, engenharia e ciência de dados.
+Profissional de área de Dados, atuando em projetos desde 2010, com atuação Business Intelligence, em Análise, Engenharia e Ciência de Dados.
 
 Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolvendo soluções e plataformas modernas de dados focadas em impacto e valor de negócio.
 
@@ -55,7 +55,7 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 ### 🌐 Onde me encontrar:
 
 - 🔗 [Se Conecte comigo no LinkedIn](https://linkedin.com/in/fabiomarcolia/)
-- 📬 [Biblioteca de Recursos Dados & IA](https://mentordados.substack.com)
+- 📬 [Biblioteca de Recursos Dados & IA](<iframe src="https://marsolia.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>)
 - 🧠 [Recursos e materiais para sua Carreira](https://topmate.io/fabiomarcolia)
 
 ---
