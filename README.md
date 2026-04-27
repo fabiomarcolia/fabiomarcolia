@@ -64,4 +64,4 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 
 ---
 
-💡 *Sou um grande entusiasta da área de dados & IA, compartilhando e ajudando profissionais na carreira.
+💡 *Sou um grande entusiasta da área de dados & IA, aprendendo, compartilhando e ajudando profissionais na carreira.
