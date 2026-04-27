@@ -59,6 +59,9 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 - 🤖 [Biblioteca de Recursos Dados & IA](https://marsolia.substack.com)
 - 🧠 [Recursos e materiais para sua Carreira](https://topmate.io/fabiomarcolia)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Marçolia-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fabiomarcolia)
+- Mais Recursos de Carreira: [Veja aqui](https://topmate.io/fabiomarcolia)
+
 ---
 
 💡 *Sou um grande entusiasta da área de dados & IA, compartilhando e ajudando profissionais na carreira.
