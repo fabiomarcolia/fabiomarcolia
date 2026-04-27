@@ -40,6 +40,7 @@ Atualmente lidero times multidisciplinares como Data Platform Manager, desenvolv
 - [R Para Data Analytics](https://github.com/fabiomarcolia/R-para-Business-Analytics) Usando R a principal Linguagem Estatística para Data Analytics
 - [Modern Data Platform](https://github.com/fabiomarcolia/modern-data-platform-architecture) Guia de arquitetura e otimização de plataforma de dados: lakehouse, performance, FinOps, observabilidade e IA.
 - [GenAI para time de Dados](https://github.com/fabiomarcolia/genai-para-times-de-dados) Aplicações e PROMTPTs práticos de IA Generativa em SQL, BI e pipelines de dados e agentes.
+- [Data Engineering Fundamentals](https://github.com/fabiomarcolia/data-engineering-fundamentals) Aprenda Engenharia de Dados com Fundamentos práticos.
 
 #### Estarei sempre atualizando o tema correspondente, são repositórios onde eu salvo templates e recursos. Inclusive quando eu testo novas tecnologias.
 
